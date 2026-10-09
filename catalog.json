@@ -6,14 +6,14 @@
     {
      "name": "get-started",
      "title": "Get Started",
-     "about": "Tells you where you are in FORGE OS and walks you to the next step.",
-     "version": "1.11.3"
+     "about": "Tells you where you are in FORGE ACS and walks you to the next step.",
+     "version": "1.11.4"
     },
     {
      "name": "brand-builder",
      "title": "Brand Builder",
      "about": "Builds your brand's foundation, customer psychology and voice through structured interview questions - everything else writes from it.",
-     "version": "3.6.2"
+     "version": "3.6.3"
     },
     {
      "name": "founder-story",
@@ -31,7 +31,7 @@
      "name": "idea-engine",
      "title": "Idea Engine",
      "about": "Finds and banks content ideas from your brand psychology and the books you love.",
-     "version": "1.14.2"
+     "version": "1.14.3"
     }
    ]
   },
@@ -42,13 +42,13 @@
      "name": "short-form-video",
      "title": "Short-Form Video",
      "about": "Reels, TikTok and Shorts scripts in your voice, ready for Pocket Director.",
-     "version": "6.9.4"
+     "version": "6.9.5"
     },
     {
      "name": "carousel",
      "title": "Carousel",
      "about": "Instagram carousels: covers, slides and caption in your voice.",
-     "version": "1.5.2"
+     "version": "1.5.3"
     },
     {
      "name": "email",
@@ -89,7 +89,7 @@
      "name": "analyst",
      "title": "Analyst",
      "about": "Reads your results every week and tells you what's working and what to change.",
-     "version": "1.0.5"
+     "version": "1.0.6"
     },
     {
      "name": "creator-scout",
