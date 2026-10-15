@@ -101,7 +101,7 @@
      "name": "viral-research",
      "title": "Viral Research",
      "about": "Runs the weekly viral research in VXE and turns the best posts into templates.",
-     "version": "0.5.3"
+     "version": "0.6.1"
     },
     {
      "name": "template-extractor",
