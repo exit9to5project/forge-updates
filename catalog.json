@@ -13,7 +13,7 @@
      "name": "brand-builder",
      "title": "Brand Builder",
      "about": "Builds your brand's foundation, customer psychology and voice through structured interview questions - everything else writes from it.",
-     "version": "3.6.3"
+     "version": "3.6.5"
     },
     {
      "name": "founder-story",
@@ -41,7 +41,7 @@
     {
      "name": "short-form-video",
      "title": "Short-Form Video",
-     "about": "Reels, TikTok and Shorts scripts in your voice, ready for Pocket Director.",
+     "about": "Reels, TikTok and Shorts scripts in your voice, ready for VoxVid Director.",
      "version": "6.9.5"
     },
     {
