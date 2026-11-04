@@ -19,7 +19,7 @@
      "name": "founder-story",
      "title": "Founder Story",
      "about": "A guided interview that turns your journey into your founder story.",
-     "version": "3.4.2"
+     "version": "3.4.3"
     },
     {
      "name": "offer-extractor",
@@ -31,7 +31,7 @@
      "name": "idea-engine",
      "title": "Idea Engine",
      "about": "Finds and banks content ideas from your brand psychology and the books you love.",
-     "version": "1.14.4"
+     "version": "1.14.5"
     }
    ]
   },
