@@ -7,31 +7,31 @@
      "name": "get-started",
      "title": "Get Started",
      "about": "Tells you where you are in FORGE ACS and walks you to the next step.",
-     "version": "1.11.4"
+     "version": "1.12.0"
     },
     {
      "name": "brand-builder",
      "title": "Brand Builder",
      "about": "Builds your brand's foundation, customer psychology and voice through structured interview questions - everything else writes from it.",
-     "version": "3.6.8"
+     "version": "3.6.9"
     },
     {
      "name": "founder-story",
      "title": "Founder Story",
      "about": "A guided interview that turns your journey into your founder story.",
-     "version": "3.4.3"
+     "version": "3.4.4"
     },
     {
      "name": "offer-extractor",
      "title": "Offer Extractor",
      "about": "Captures your offer and gifts so every piece of content points to the right next step.",
-     "version": "2.3.0"
+     "version": "2.3.1"
     },
     {
      "name": "idea-engine",
      "title": "Idea Engine",
      "about": "Finds and banks content ideas from your brand psychology and the books you love.",
-     "version": "1.14.6"
+     "version": "1.14.7"
     }
    ]
   },
@@ -42,25 +42,25 @@
      "name": "short-form-video",
      "title": "Short-Form Video",
      "about": "Reels, TikTok and Shorts scripts in your voice, ready for VoxVid Director.",
-     "version": "6.12.2"
+     "version": "6.12.3"
     },
     {
      "name": "carousel",
      "title": "Carousel",
      "about": "Instagram carousels: covers, slides and caption in your voice.",
-     "version": "1.5.3"
+     "version": "1.5.4"
     },
     {
      "name": "email",
      "title": "Email",
      "about": "Single emails and full sequences in your voice.",
-     "version": "3.5.2"
+     "version": "3.5.3"
     },
     {
      "name": "skool-post",
      "title": "Skool Post",
      "about": "Community posts for your Skool group.",
-     "version": "3.6.2"
+     "version": "3.6.3"
     },
     {
      "name": "blog",
@@ -83,13 +83,13 @@
      "name": "calendar",
      "title": "Calendar",
      "about": "Plans your month of content and schedules it.",
-     "version": "3.6.7"
+     "version": "3.6.8"
     },
     {
      "name": "analyst",
      "title": "Analyst",
      "about": "Reads your results every week and tells you what's working and what to change.",
-     "version": "1.0.6"
+     "version": "1.0.7"
     },
     {
      "name": "creator-scout",
@@ -101,13 +101,13 @@
      "name": "viral-research",
      "title": "Viral Research",
      "about": "Runs the weekly viral research in VXE and turns the best posts into templates.",
-     "version": "0.7.2"
+     "version": "0.7.3"
     },
     {
      "name": "template-extractor",
      "title": "Template Extractor",
      "about": "Turns any high-performing post, email or video into a reusable madlib template.",
-     "version": "2.2.3"
+     "version": "2.2.4"
     }
    ]
   }
