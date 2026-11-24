@@ -95,13 +95,13 @@
      "name": "creator-scout",
      "title": "Creator Scout",
      "about": "Finds creators in your niche worth learning from and sends them to VXE.",
-     "version": "0.3.6"
+     "version": "0.3.7"
     },
     {
      "name": "viral-research",
      "title": "Viral Research",
      "about": "Runs the weekly viral research in VXE and turns the best posts into templates.",
-     "version": "0.7.5"
+     "version": "0.7.6"
     },
     {
      "name": "template-extractor",

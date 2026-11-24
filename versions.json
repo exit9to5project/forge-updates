@@ -4,7 +4,7 @@
  "brand-builder": "3.7.2",
  "calendar": "3.6.8",
  "carousel": "1.5.4",
- "creator-scout": "0.3.6",
+ "creator-scout": "0.3.7",
  "email": "3.5.3",
  "founder-story": "3.4.4",
  "get-started": "1.12.0",
@@ -14,6 +14,6 @@
  "short-form-video": "6.12.4",
  "skool-post": "3.6.3",
  "template-extractor": "2.2.5",
- "viral-research": "0.7.5",
+ "viral-research": "0.7.6",
  "website-studio": "1.0.2"
 }
