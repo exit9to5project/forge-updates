@@ -4,10 +4,10 @@
    "group": "Start here",
    "plugins": [
     {
-     "name": "get-started",
-     "title": "Get Started",
-     "about": "Tells you where you are in FORGE ACS and walks you to the next step.",
-     "version": "1.12.0"
+     "name": "jot-suite",
+     "title": "Jot Suite",
+     "about": "Your setup assistant: walks you through accounts, API keys, the Jot Suite connector, plugin installs and your brand, then runs VXE Control Center's research buttons.",
+     "version": "2.0.0"
     },
     {
      "name": "brand-builder",
