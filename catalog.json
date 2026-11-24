@@ -7,7 +7,7 @@
      "name": "jot-suite",
      "title": "Jot Suite",
      "about": "Your setup assistant: walks you through accounts, API keys, the Jot Suite connector, plugin installs and your brand, then runs VXE Control Center's research buttons.",
-     "version": "2.3.0"
+     "version": "2.3.1"
     },
     {
      "name": "brand-builder",
@@ -101,7 +101,7 @@
      "name": "viral-research",
      "title": "Viral Research",
      "about": "Runs the weekly viral research in VXE and turns the best posts into templates.",
-     "version": "0.7.7"
+     "version": "0.7.8"
     },
     {
      "name": "template-extractor",
