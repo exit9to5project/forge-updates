@@ -42,25 +42,25 @@
      "name": "short-form-video",
      "title": "Short-Form Video",
      "about": "Reels, TikTok and Shorts scripts in your voice, ready for VoxVid Director.",
-     "version": "6.12.4"
+     "version": "6.12.5"
     },
     {
      "name": "carousel",
      "title": "Carousel",
      "about": "Instagram carousels: covers, slides and caption in your voice.",
-     "version": "1.5.4"
+     "version": "1.5.5"
     },
     {
      "name": "email",
      "title": "Email",
      "about": "Single emails and full sequences in your voice.",
-     "version": "3.5.3"
+     "version": "3.5.4"
     },
     {
      "name": "skool-post",
      "title": "Skool Post",
      "about": "Community posts for your Skool group.",
-     "version": "3.6.3"
+     "version": "3.6.4"
     },
     {
      "name": "blog",
@@ -95,13 +95,13 @@
      "name": "creator-scout",
      "title": "Creator Scout",
      "about": "Finds creators in your niche worth learning from and sends them to VXE.",
-     "version": "0.3.7"
+     "version": "0.3.8"
     },
     {
      "name": "viral-research",
      "title": "Viral Research",
      "about": "Runs the weekly viral research in VXE and turns the best posts into templates.",
-     "version": "0.7.8"
+     "version": "0.7.9"
     },
     {
      "name": "template-extractor",
