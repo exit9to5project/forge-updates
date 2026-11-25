@@ -7,7 +7,7 @@
      "name": "jot-suite",
      "title": "Jot Suite",
      "about": "Your setup assistant: walks you through accounts, API keys, the Jot Suite connector, plugin installs and your brand, then runs VXE Control Center's research buttons.",
-     "version": "2.4.2"
+     "version": "2.4.3"
     },
     {
      "name": "brand-builder",
@@ -42,7 +42,7 @@
      "name": "short-form-video",
      "title": "Short-Form Video",
      "about": "Reels, TikTok and Shorts scripts in your voice, ready for VoxVid Director.",
-     "version": "6.13.3"
+     "version": "6.13.4"
     },
     {
      "name": "carousel",
