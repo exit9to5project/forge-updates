@@ -7,7 +7,7 @@
      "name": "jot-suite",
      "title": "Jot Suite",
      "about": "Your setup assistant: walks you through accounts, API keys, the Jot Suite connector, plugin installs and your brand, then runs VXE Control Center's research buttons.",
-     "version": "2.7.2"
+     "version": "2.7.3"
     },
     {
      "name": "brand-builder",
